@@ -1,0 +1,1 @@
+lấy ra danh sách tất cả sinh viên của tất cả các lớp(thông tin hiển thị gồm tất cả các cột của cả 2 bảng) sử dụng linq để join 2 bảng, xóa 1 dòng classroom và sử dụng left join để lấy ra danh sách như trên mà không bị mất sinh viên thuộc vào classroom vừa xoá.
